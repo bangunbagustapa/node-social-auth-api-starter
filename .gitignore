@@ -1,0 +1,14 @@
+# Dependencies
+node_modules
+
+# Production
+dist
+
+# Environment variables
+.env
+
+# Cache
+.eslintcache
+
+# Logs
+npm-debug.log*
